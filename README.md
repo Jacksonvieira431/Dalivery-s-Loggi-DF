@@ -16,7 +16,7 @@ Foi realizada uma análise para verificar o volume de entregas em cada região d
 
 A visualização em gráfico de barras apresenta a proporção de entregas por região:
 
-![Proporção de Entregas por Região](insights/Proporção-de-entregas-por-região.png)
+![Proporção de Entregas por Região](Graficos/Proporção-de-entregas-por-região.png)
 
 ## Investimento Proporcional em Veículos Personalizados
 Com base na demanda de cada hub e nas características das entregas, foi proposto um investimento proporcional em veículos personalizados. Foi considerada a proporção de entregas de cada hub em relação ao total e a capacidade de cada tipo de veículo. O investimento proporcional foi distribuído da seguinte forma:
@@ -27,20 +27,20 @@ Com base na demanda de cada hub e nas características das entregas, foi propost
 
 O gráfico de barras agrupadas ilustra o investimento proporcional em cada tipo de veículo para cada hub:
 
-![Investimento Médio Proporcional por Tipo de Transporte e Hub](insights/Investimento-Médio-Proporcional-por-Tipo-de-Transporte-e-Hub.png)
+![Investimento Médio Proporcional por Tipo de Transporte e Hub](Graficos/Investimento-Médio-Proporcional-por-Tipo-de-Transporte-e-Hub.png)
 
 ## Análise das Distâncias de Entrega por Hub
 Foi realizada uma análise das distâncias médias de entrega para cada hub. Os resultados mostraram que o hub DF-1 tem a menor distância média de entrega, indicando que a maioria das entregas nessa região está localizada em uma área mais central e densamente povoada. Por outro lado, o hub DF-0 apresenta a maior distância média de entrega, indicando entregas mais dispersas em áreas rurais e mais afastadas.
 
 O gráfico de barras apresenta a média das distâncias de entrega por hub:
 
-![Média das Distâncias de Entrega por Hub](insights/media-das-distancias-de-entrega-por-hub.png)
+![Média das Distâncias de Entrega por Hub](Graficos/media-das-distancias-de-entrega-por-hub.png)
 
 ## Pontos Mais Afastados
 Foi realizada uma análise dos pontos de entrega mais afastados de cada hub. Os resultados são mostrados no mapa, onde a cor dos pontos de entrega indica a região do hub correspondente.
 
 Mapa dos Pontos Mais Afastados:
-![Pontos Mais Afastados](insights/Pontos-Mais-Afastados.png)
+![Pontos Mais Afastados](Graficos/Pontos-Mais-Afastados.png)
 
 ## Conclusão
 A análise detalhada dos dados de entregas da Loggi no Distrito Federal proporcionou insights valiosos para a otimização da logística e alocação de recursos. As informações sobre as proporções de entregas por região e as distâncias médias de entrega em cada hub permitem que a empresa adapte suas operações e ofereça serviços mais eficientes aos clientes.
